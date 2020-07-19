@@ -1,16 +1,18 @@
-# covid_19_statistics_app
+# COVID-19 Statistics App
 
-A new Flutter application.
+Get global or country specific COVID-19 statistics.
 
-## Getting Started
+<a href="https://youtu.be/nnxF9bEECP0" target="_blank">Live Coding Video on YouTube</a>
 
-This project is a starting point for a Flutter application.
+## Skills Used
 
-A few resources to get you started if this is your first Flutter project:
+* Downloading data from an online API
+  * Using Flutter's http package
+* Parse JSON API responses
+* ListView
+* Themes
+* Material Typography
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshot
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="images/screenshot.gif">
